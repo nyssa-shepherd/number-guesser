@@ -1,0 +1,93 @@
+header{
+  background-color: #404041;
+  color: #e6e7e8;
+  text-align: center;
+  font-family: 'Open-Sans', sans-serif; 
+  font-weight: bold;
+  font-size: 350%;
+  padding: 30px;
+}
+
+.number{
+  color: #ed458d;
+  font-weight: bold 700;
+  display: inline-block;
+}
+
+.guesser{
+  display: inline-block;
+  font-weight: 300;
+}
+
+h1{
+  text-align: center;
+  margin: 0px 0 10px 0;
+  color: #404041;
+  font-size: 300%;
+  font-family: 'Open-Sans', sans-serif; 
+  font-weight: 300;
+}
+
+#guess{
+  color: #eb008b;
+  font-size: 300%;
+  padding: 50px;
+  text-align: center;
+}
+
+
+.guess-button {
+  margin: 100px 0 0px 0;
+  left: 460px;
+  background-color: #d0d2d3;
+  color: #ffffff;
+  height: 30px;
+  width: 250px;
+  font-size: 90%;
+  padding: 5px;
+  border-radius: 20px;
+  position: sticky;
+}
+
+.clear-button{
+  left: 725px;
+  background-color: #d0d2d3;
+  color: #ffffff;
+  height: 30px;
+  width: 250px;
+  font-size: 90%;
+  padding: 5px;
+  border-radius: 20px;
+  position: sticky;
+}
+
+.rest-game-button{
+  position: relative;
+  top: 400px;
+  left: 460px;
+  background-color: #d0d2d3;
+  color: #ffffff;
+  height: 30px;
+  width: 500px;
+  font-size: 90%;
+  padding: 5px;
+  border-radius: 20px;
+  margin-bottom: 20px
+}
+
+
+.input-box{
+  position: relative;
+  top: 50px;
+  left: 460px;
+  font-size: 150%;
+  width: 500px;
+}
+
+#message{
+  font-family: 'Open-Sans', sans-serif; 
+  margin: auto;
+  font-weight: 300;
+}
+
+
